@@ -6,8 +6,9 @@ I'm Leon Low, and I am currently a Fullstack Web Developer. I really enjoy probl
 ## Skills: 
 ReactJS / NodeJS / HTML / CSS / Bootstrap / Python / Java / JavaScript / MySQL / MATLAB
 
-- 🔭 I’m currently working on Kanban Project 
-- 🌱 I’m currently learning Dockers and Kubernetes 
+## Current Progress:
+🔭 I’m currently working on Kanban Project 
+🌱 I’m currently learning Dockers and Kubernetes 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LeonLow97)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lowjiewei/)  
 
