@@ -5,7 +5,7 @@ I'm Leon Low from Singapore, and I am currently a Fullstack Web Developer. I rea
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonLow97)](https://github.com/anuraghazra/github-readme-stats)
 
-Skills: ReactJS / NodeJS / HTML / CSS / Bootstrap / Python / JavaScript / MySQL
+Skills: ReactJS / NodeJS / HTML / CSS / Bootstrap / Python / Java / JavaScript / MySQL
 
 - 🔭 I’m currently working on Kanban Project 
 - 🌱 I’m currently learning Dockers and Kubernetes 
