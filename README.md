@@ -1,4 +1,4 @@
-### Hi there 👋
+### Software Engineer 👋
 
 #### Fullstack Web Developer
 I'm Leon Low from Singapore, and I am currently a Fullstack Web Developer. I really enjoy problem-solving and utilising programming languages to provide the best for my clients. User experience and following project specifications are of paramount importance to me. I enjoy coding and I am constantly self-learning new programming languages! 
