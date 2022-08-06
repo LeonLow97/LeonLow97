@@ -1,8 +1,6 @@
 # Leon Low 👋
 I'm Leon Low, and I am currently a Fullstack Web Developer. I really enjoy problem-solving and utilising programming languages to build applications in a computer. I place a strong emphasis on user experience and following project specifications. I enjoy coding and I am constantly self-learning new programming languages! 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonLow97)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Skills: 
 ReactJS / NodeJS / HTML / CSS / Bootstrap / Python / Java / JavaScript / MySQL / MATLAB
 
