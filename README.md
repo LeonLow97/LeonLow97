@@ -1,7 +1,7 @@
 ### Software Engineer 👋
 
 #### Fullstack Web Developer
-I'm Leon Low from Singapore, and I am currently a Fullstack Web Developer. I really enjoy problem-solving and utilising programming languages to build application in a computer. I place a strong emphasis on user experience and following project specifications. I enjoy coding and I am constantly self-learning new programming languages! 
+I'm Leon Low from Singapore, and I am currently a Fullstack Web Developer. I really enjoy problem-solving and utilising programming languages to build applications in a computer. I place a strong emphasis on user experience and following project specifications. I enjoy coding and I am constantly self-learning new programming languages! 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonLow97)](https://github.com/anuraghazra/github-readme-stats)
 
