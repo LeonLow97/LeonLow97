@@ -5,10 +5,8 @@ I'm Leon Low, and I am currently a Fullstack Web Developer. I really enjoy probl
 ReactJS / NodeJS / HTML / CSS / Bootstrap / Python / Java / JavaScript / MySQL / MATLAB
 
 <hr>
-<div style="text-align:center">
-  <a href="https://github.com/LeonLow97-Sandbox">LeonLow97 Sandbox</a>
-  <p><i>Actively self-learning and growing!</i></p>
-</div>
+<a style="text-align:center" href="https://github.com/LeonLow97-Sandbox">LeonLow97 Sandbox</a>
+<p style="text-align:center"><i>Actively self-learning and growing!</i></p>
 
 ## Current Progress:
 - 🔭 I’m currently working on building an E-Commerce Website
