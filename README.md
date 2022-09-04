@@ -7,6 +7,7 @@ ReactJS / NodeJS / HTML / CSS / Bootstrap / Python / Java / JavaScript / MySQL /
 <hr>
 <div align = "center">
   <a href="https://github.com/LeonLow97-Sandbox">LeonLow97 Sandbox</a>
+  <p>For storing online tutorials and courses!</p>
   <p><i>Actively self-learning and growing!</i></p>
 </div>
 
