@@ -11,7 +11,7 @@ ReactJS / NodeJS / HTML / CSS / Bootstrap / Python / Java / JavaScript / MySQL /
 </div>
 
 ## Current Progress:
-- 🔭 I’m currently working on building an E-Commerce Website
+- 🔭 I’m currently working on the Task Management System project but using Golang and Svelte
 - 🔭 I've completed a Kanban Project and I'm currently refining it
 - 🌱 I’m currently learning Dockers and Kubernetes 
 
