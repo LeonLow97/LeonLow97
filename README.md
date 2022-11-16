@@ -42,5 +42,6 @@ I'm Leon Low, and I am currently a Fullstack Web Developer. I really enjoy probl
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonLow97&layout=compact)](https://github.com/LeonLow97/github-readme-stats)
 
+## LinkedIn
 <a href="https://www.linkedin.com/in/lowjiewei/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lowjiewei/" height="30" width="40" /></a>
 
