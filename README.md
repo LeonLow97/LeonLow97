@@ -1,5 +1,5 @@
 # Leon Low 👋
-I'm Leon Low, and I am currently a Fullstack Web Developer. I really enjoy problem-solving and utilising programming languages to build applications in a computer. I place a strong emphasis on user experience and following project specifications. I enjoy coding and I am constantly self-learning new programming languages! 
+I'm Leon Low, and I am currently a Fullstack Web Developer. I really enjoy problem-solving and utilising programming languages to build applications on a computer. I place a strong emphasis on user experience and following project specifications. I am a fast learner and I am able to quickly apply the required skills into the project. I enjoy coding and I am constantly self-learning new programming languages! 
 
 <div align="center">
 	<i>"The beauty of learning is that no one can take it away from you."</i> 
