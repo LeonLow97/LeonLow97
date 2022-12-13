@@ -21,10 +21,7 @@ I'm Leon Low, and I am currently a Fullstack Web Developer. I really enjoy probl
   <p>For storing online tutorials and courses!<br><i>Actively self-learning and growing!</i></p>
 </div>
 
-## Current Progress:
-- 🔭 I’m currently working on the Task Management System project but using Golang and Svelte
-- 🔭 I've completed a Kanban Project and I'm currently refining it
-- 🌱 I’m currently learning Dockers and Kubernetes 
+## Technical Skills
 
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" /></code>
