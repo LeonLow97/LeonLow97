@@ -1,5 +1,5 @@
 # Leon Low 👋
-I'm Leon Low, and I am currently a Backend Software Engineer. I really enjoy problem-solving and utilising programming languages to build applications on a computer. I place a strong emphasis on user experience and following project specifications. I am a fast learner and I am able to quickly apply the required skills into the project. I enjoy coding and I am constantly self-learning new programming languages! 
+I am Leon Low, a Backend Software Engineer with a passion for problem-solving and utilizing programming languages to build robust and efficient applications. I place a strong emphasis on user experience and adhere to project specifications. I am a fast learner and have a proven ability to quickly pick up new skills and technologies. I am continuously driven to improve my skills and stay current in the industry. I thrive in challenging environments and have a strong attention to detail, ensuring that the final product is of the highest quality. My strong work ethic and motivation make me a reliable team member.
 
 <div align="center">
 	<i>"The beauty of learning is that no one can take it away from you."</i> 
