@@ -14,13 +14,6 @@ I am Leon Low, a Backend Software Engineer with a passion for problem-solving an
 
 <hr>
 
-|Layers|Technology|
-|:-:|:-:|
-|FrontEnd|ReactJS / Svelte / HTML / CSS / Bootstrap|
-|BackEnd|Python / Java / JavaScript (NodeJS & ExpressJS) / Golang|
-|Database|MySQL|
-|Others|GitLab / GitHub / MATLAB|
-
 ## Technical Skills
 
 <div align="center">
