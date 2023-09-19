@@ -20,9 +20,6 @@ I am Leon Low, a Fullstack Software Engineer with a passion for problem-solving 
 	<img height="150" src="https://skillicons.dev/icons?i=go,java,spring,javascript,react,vuejs,svelte,nodejs,expressjs,typescript,python,cs,dotnet,golang,mysql,postgresql,git,gitlab,github,docker,postman,vite,html,css&theme=dark" />
 </div>
 
-<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonLow97&layout=compact)](https://github.com/LeonLow97/github-readme-stats)
-
 ## LinkedIn
 <a href="https://www.linkedin.com/in/lowjiewei/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/lowjiewei/" height="60" /></a>
 
