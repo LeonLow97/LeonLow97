@@ -9,7 +9,7 @@ I am Leon Low, a Fullstack Software Engineer with a passion for problem-solving 
 <hr>
 <div align = "center">
   <a href="https://github.com/LeonLow97-Sandbox">LeonLow97 Sandbox</a>
-  <p>For storing online tutorials and courses!<br><i>Actively self-learning and growing!</i></p>
+  <p>For storing online tutorials and courses!</p>
 </div>
 
 <hr>
