@@ -19,7 +19,7 @@ I am Leon Low, a Self-Taught Fullstack Software Engineer with a passion for prob
 ## Technical Skills
 
 <div align="center">
-	<img height="150" src="https://skillicons.dev/icons?i=go,java,spring,javascript,react,vuejs,svelte,nodejs,expressjs,typescript,python,cs,dotnet,golang,linux,mysql,postgresql,git,gitlab,github,docker,postman,vite,html,css&theme=dark" />
+	<img height="150" src="https://skillicons.dev/icons?i=go,java,spring,javascript,react,vuejs,svelte,nodejs,expressjs,typescript,python,cs,dotnet,golang,linux,mysql,postgresql,git,gitlab,github,docker,kubernetes,postman,vite,html,css&theme=dark" />
 </div>
 
 ## LinkedIn
