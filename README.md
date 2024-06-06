@@ -1,4 +1,4 @@
-<img width="100%" alt="image" src="https://github.com/LeonLow97/LeonLow97/assets/102566827/02cc406d-cd87-4a83-93a0-56a2196bb140"><br>
+<img width="100%" alt="image" src="https://github.com/LeonLow97/LeonLow97/assets/102566827/25e14752-38ec-4203-ab8b-b5a4a6de3f77"><br>
 
 I am Leon Low, a Self-Taught Fullstack Software Engineer with a passion for problem-solving and utilizing programming languages to build robust and efficient applications. I place a strong emphasis on user experience and adhere to project specifications. I am a fast learner and have a proven ability to quickly pick up new skills and technologies. I am continuously driven to improve my skills and stay current in the industry. I thrive in challenging environments and have a strong attention to detail, ensuring that the final product is of the highest quality. My strong work ethic and motivation make me a reliable team member.
 
