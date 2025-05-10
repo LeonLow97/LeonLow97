@@ -2,6 +2,30 @@
 
 I am Leon Low, a Self-Taught Fullstack Software Engineer with a passion for problem-solving and utilizing programming languages to build robust and efficient applications. I place a strong emphasis on user experience and adhere to project specifications. I am a fast learner and have a proven ability to quickly pick up new skills and technologies. I am continuously driven to improve my skills and stay current in the industry. I thrive in challenging environments and have a strong attention to detail, ensuring that the final product is of the highest quality. My strong work ethic and motivation make me a reliable team member.
 
+<hr>
+<div align="center">Contribution to Open-Source Projects</div>
+<br>
+<div align="center">
+	<details closed>
+	<summary>View Contributions</summary>
+	<table>
+		<tr>
+			<th>Issue</th>
+			<th>Problem Link</th>
+			<th>Pull Request Link</th>
+			<th>Technical Skills</th>
+		</tr>
+		<tr>
+			<td>Implement `.Log()` Support After `.Limit()` in Query Builder</td>
+			<td>https://github.com/devasherr/Nexom/issues/3</td>
+			<td>https://github.com/devasherr/Nexom/pull/4</td>
+			<td>Golang</td>
+		</tr>
+	</table>
+	</details>
+</div>
+<hr>
+
 <div align="center"><a href="https://leonlow97.github.io/">Portfolio Website</a></div>
 <br>
 <div align="center">
