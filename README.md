@@ -16,6 +16,12 @@ I am Leon Low, a Self-Taught Fullstack Software Engineer with a passion for prob
 			<th>Technical Skills</th>
 		</tr>
 		<tr>
+			<td>Adding test for `loadOrCreateKey`</td>
+			<td>https://github.com/pactus-project/pactus/issues/1766</td>
+			<td>https://github.com/pactus-project/pactus/pull/1783</td>
+			<td>Golang</td>
+		</tr>
+		<tr>
 			<td>Implement `.Log()` Support After `.Limit()` in Query Builder</td>
 			<td>https://github.com/devasherr/Nexom/issues/3</td>
 			<td>https://github.com/devasherr/Nexom/pull/4</td>
