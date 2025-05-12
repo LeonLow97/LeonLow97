@@ -16,6 +16,12 @@ I am Leon Low, a Self-Taught Fullstack Software Engineer with a passion for prob
 			<th>Technical Skills</th>
 		</tr>
 		<tr>
+			<td>Delete redundant loop variable copies</td>
+			<td>https://github.com/ssvlabs/ssv/issues/2134</td>
+			<td>https://github.com/ssvlabs/ssv/pull/2198</td>
+			<td>Golang</td>
+		</tr>
+		<tr>
 			<td>Support JSON Array Responses in HTTP Step</td>
 			<td>https://github.com/akuity/kargo/issues/3877</td>
 			<td>https://github.com/akuity/kargo/pull/4059</td>
