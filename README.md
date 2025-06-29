@@ -18,7 +18,7 @@ I am Leon Low, a Self-Taught Fullstack Software Engineer with a passion for prob
 		<tr>
 			<td>Adding prefix v to stable tag image</td>
 			<td>https://github.com/google/osv-scanner/issues/1976</td>
-			<td>https://github.com/google/osv-scanner/pull/1977</td>
+			<td>https://github.com/google/osv-scanner/pull/2001</td>
 			<td>GitHub Actions</td>
 		</tr>
 		<tr>
