@@ -2,12 +2,15 @@
 
 Hey there, I am Leon Low, a Senior Software Engineer and the best part is that I am self-taught. I graduated with a Bachelor's Degree in Chemical Engineering from National University of Singapore (NUS) in year 2022 and have started my career as a Software Engineer since then. I am an independent learner and takes strong product ownership over the things that I do. Do give me a follow! 😀
 
+<div align="center">
+	<i>"The beauty of learning is that no one can take it away from you."</i> 
+	<br><i>"The goal is to be better than you were yesterday."</i>
+</div>
+
 <hr>
-<div align="center">Contribution to Open-Source Projects</div>
-<br>
 <div align="center">
 	<details closed>
-	<summary>View Contributions</summary>
+	<summary>View Contribution to Open-Source Projects</summary>
 	<table>
 		<tr>
 			<th>Issue</th>
@@ -62,16 +65,14 @@ Hey there, I am Leon Low, a Senior Software Engineer and the best part is that I
 </div>
 <hr>
 
-<div align="center"><a href="https://leonlow97.github.io/">Portfolio Website</a></div>
-<br>
 <div align="center">
-	<i>"The beauty of learning is that no one can take it away from you."</i> 
-	<br><i>"The goal is to be better than you were yesterday."</i>
+	<p><a href="https://leonlow97.github.io/">Portfolio Website</a></p>
+	<p>More About Myself!</p>
 </div>
 
 <hr>
 <div align = "center" >
-  <a href="https://github.com/LeonLow97-Sandbox">LeonLow97 Sandbox</a>
+  <p><a href="https://github.com/LeonLow97-Sandbox">LeonLow97 Sandbox</a></p>
   <p>For storing online tutorials and courses!</p>
 </div>
 
