@@ -1,6 +1,6 @@
 <img width="100%" alt="image" src="https://github.com/LeonLow97/LeonLow97/assets/102566827/25e14752-38ec-4203-ab8b-b5a4a6de3f77"><br>
 
-I am Leon Low, a Senior Software Engineer with a passion for problem-solving and utilizing programming languages to build robust and efficient applications. I place a strong emphasis on user experience and adhere to project specifications. I am a fast learner and have a proven ability to quickly pick up new skills and technologies. I am continuously driven to improve my skills and stay current in the industry. I thrive in challenging environments and have a strong attention to detail, ensuring that the final product is of the highest quality. My strong work ethic and motivation make me a reliable team member.
+I am Leon Low, a Senior Software Engineer and the best part is that I am self-taught. I graduated with a Bachelor's Degree in Chemical Engineering from National University of Singapore (NUS) in year 2022 and have started my career as a Software Engineer since then. I am an independent learner and takes strong product ownership over the things that I do. 
 
 <hr>
 <div align="center">Contribution to Open-Source Projects</div>
