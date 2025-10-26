@@ -10,7 +10,7 @@ Hey there, I am Leon Low, a Senior Software Engineer and the best part is that I
 <hr>
 <div align="center">
 	<details closed>
-	<summary>View Contribution to Open-Source Projects</summary>
+	<summary>View Contributions to Open-Source Projects</summary>
 	<table>
 		<tr>
 			<th>Issue</th>
