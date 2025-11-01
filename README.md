@@ -19,6 +19,12 @@ Hey there, I am Leon Low, a Senior Software Engineer and the best part is that I
 			<th>Repo Stars</th>
 		</tr>
 		<tr>
+			<td>k8sattributes processor to only set `k8s.pod.ip` attribute when it is requested in the `extract.metadata` configuration.</td>
+			<td>https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/43862</td>
+			<td>https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/43910</td>
+			<td><img src="https://img.shields.io/github/stars/open-telemetry/opentelemetry-collector-contrib?style=social" alt="stars"/></td>
+		</tr>
+		<tr>
 			<td>Using a previously introduced reusable golang generic helper `ToPtr` that converts a golang type to a pointer in `pkg/utils` package.</td>
 			<td>https://github.com/fluent/fluent-operator/issues/1749</td>
 			<td>https://github.com/fluent/fluent-operator/pull/1750</td>
